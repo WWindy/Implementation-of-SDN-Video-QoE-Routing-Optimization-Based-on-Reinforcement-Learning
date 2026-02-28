@@ -8,7 +8,9 @@
 
 # 二、设计思路与方案
 本项目以该SDN架构作为实验环境，采用如图（1）所示的项目框架。将应用平面中的智能体作为本项目的“芯片”，负责进行网络中的路由决策，控制平面中的SDN控制器作为本架构的“领导”，根据“芯片”的指示对转发平面下达流表更新的指令。
-<img width="206" height="247" alt="image" src="https://github.com/user-attachments/assets/618b1298-be5d-47c9-bff7-0fe5f816e74c" />
+
+- <img width="206" height="247" alt="image" src="https://github.com/user-attachments/assets/618b1298-be5d-47c9-bff7-0fe5f816e74c" />
+
 项目整体运行流程如图（2）所示。首先，依据图（1）所示的架构，使用Mininet创建如图（3）所示的自定义网络拓扑结构。然后，如图（4）所示，在各主机之间使用VLC（Video Lan Client）进行视频传输，模拟实时视频通信环境。再后，设计一个基于强化学习的SDN视频QoE路由优化算法（RLQR-SV），用于代替物理网络中的路由算法等决策手段。它可通过iperf，wireshark抓包等手段实时获取网络的性能参数以及流量状态等指标，根据计算出的用户体验质量QoE参数值，决策出最优路径并发送给OpenDayLight控制器。在获取到该路径后，OpenDayLight控制器立即更新对应流表，将流量引导至该路径上，在此期间，基于强化学习的SDN视频QoE路由优化算法（RLQR-SV）根据实时网络情况不断调整策略，最终达到优化网络，提高用户QoE高质量体验的目的。
 <img width="330" height="297" alt="image" src="https://github.com/user-attachments/assets/2c6a7339-47b3-4b0d-be58-28bfce5f4a56" />
 <img width="371" height="244" alt="image" src="https://github.com/user-attachments/assets/c78bf1e2-02d4-4a7e-8d1c-7de27812d30f" />
