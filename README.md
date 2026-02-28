@@ -1,3 +1,7 @@
+# 项目成果：
+- c4网络技术挑战赛华南赛区二等奖
+- 挑战杯黑科技校二等奖
+- 发明专利-学生一作
 #  一、目标问题与意义价值
 随着互联网技术的迅速发展，线上视频会议已经成为一种越来越流行的业务应用，为企业之间的协作提供了更加便捷、高效的方式。然而，尤其是在线教育、远程医疗等需要高实时性和稳定性的应用场景中，由于网络性能问题，在视频会议过程中可能会出现卡顿、延迟、画面不清晰等现象，影响了用户体验和业务效率。
 本作品重点关注视频会议实时性和稳定性的问题，在网络拓扑决策上引入了面向用户QoE（Quality of Experience）的智能体NTDA（Network Topology Decision Agent），提出了基于强化学习的SDN视频QoE路由优化算法RLQR-SV（Reinforcement Learning-based QOE Routing Algorithm for SDN Video Transmission），通过优化路由策略提高视频会议的实时性和稳定性，保障用户体验。同时，该作品也对近端策略优化算法（Proximal Policy Optimization）的应用进行了探索和实践，为其在网络领域的应用提供了新思路和方法。
