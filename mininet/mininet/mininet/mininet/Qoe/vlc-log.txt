@@ -1,0 +1,415 @@
+﻿-- logger module started --
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1401124250
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1401158739
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1401193216
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1401227698
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1415075931
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1415110409
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1415144898
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1415179375
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1415213857
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1429315456
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1429349938
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1443115801
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1443150290
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1443184767
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1443219249
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1457107317
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1457141795
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1457176284
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1457210761
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1457245243
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 8, expected 7) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 8, expected 7) for PID 66
+stream_out_transcode error: cannot create chain
+core error: stream chain failed for `transcode{vcodec=h264,acodec=mpga,ab=128,channels=2,samplerate=44100}'
+core error: cannot start stream output instance, aborting
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 4, expected 3) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 4, expected 3) for PID 66
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1470938426
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1470972904
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1471007393
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1471041870
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1470195095
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1485146670
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1485181152
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1499033671
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 7, expected 6) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 7, expected 6) for PID 66
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1499068148
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1499102630
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1512952590
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1512987079
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1513021556
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1513056038
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1526986442
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1527020931
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1526147938
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1526182420
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1540979712
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1541014190
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1541048679
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1540606505
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1540640987
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1555032076
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1555066558
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1568958132
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1568154327
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1568188809
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1582835016
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1582869498
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1596874226
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1596908703
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1596943185
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1611142714
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1611177196
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1625111484
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1625145966
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1638927524
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1638962006
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1652953508
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1652987985
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1653022467
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1666868680
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1666903157
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1666937639
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1680769397
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1679999651
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1694816506
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1694850995
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1693983322
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1693967984
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1708812730
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1708847219
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1708881696
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1708916178
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x45 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1750876980
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1750911469
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1750945946
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1750980428
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1764909587
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1764944064
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1764978546
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1778859229
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1778893718
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1777974021
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1778008503
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1792891363
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1792925845
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1806710817
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1806745299
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1820654428
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1819854638
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1819889120
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1834599944
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1834634433
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1834668910
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1834703392
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1848664059
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1848698541
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1862623265
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1862657747
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1876623549
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1876658026
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1876692508
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1890819798
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1890854280
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 5, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 5, expected 4) for PID 66
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1904576363
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1904610845
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1918405565
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1918440054
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1918474531
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1918509013
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x45 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+packetizer_mpeg4audio: AAC channels: 1 samplerate: 44100
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1960503831
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1960538313
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1974482614
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1974517103
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1974551580
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1974586062
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1988399852
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1988434341
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1988468818
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 1988503300
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2002717643
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2002752125
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2016526228
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2016560705
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2016595187
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 0, expected 4) for PID 66
+ts: MPEG-4 descriptor not found for pid 0x44 type 0xf
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2030504349
+clock error: Timestamp conversion failed (delay 1000000, buffering 0, bound 9000000)
+core error: Could not convert timestamp 2030538831
+-- logger module stopped --

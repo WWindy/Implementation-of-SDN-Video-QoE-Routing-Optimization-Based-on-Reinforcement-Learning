@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "vlc_stats_telnet.py", line 6, in <module>
+    tn = telnetlib.Telnet('10.0.0.2', udp://:1234)
+  File "/usr/lib/python2.7/telnetlib.py", line 211, in __init__
+    self.open(host, port, timeout)
+  File "/usr/lib/python2.7/telnetlib.py", line 227, in open
+    self.sock = socket.create_connection((host, port), timeout)
+  File "/usr/lib/python2.7/socket.py", line 575, in create_connection
+    raise err
+socket.error: [Errno 111] Connection refused

@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "h2.py", line 8, in <module>
+    time.sleep(10)
+NameError: name 'time' is not defined
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'eth0'
+tshark: The capture session could not be initiated on interface 'eth0' (eth0: SIOCETHTOOL(ETHTOOL_GET_TS_INFO) ioctl failed: No such device).
+Please check that you have the proper interface or pipe specified.
+0 packets captured
