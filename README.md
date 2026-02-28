@@ -19,12 +19,12 @@
 # 三、效果分析
 本项目将以网络流量大小为指标的基于负载均衡的迪杰斯特拉算法（Dijkstra-Load Balance）与我们提出的RLQR-SV算法进行对比，一次训练回合 (iteration) 包含33个步骤，相当于每运行33次流表更新后会进行一次PPO训练。区别于传统的基于跳数的迪杰斯特拉算法，我们在此基础上进行了改进，提出了基于负载均衡的迪杰斯特拉算法，该算法在每个小回合计算出各条路径上的数据包流量大小，根据最短路径原则，选取主机1与主机2之间流量最小的路径作为最终决策路径，通过流表下发应用到环境中。由图（10）-图（14）可见，在综合评估指标QoE方面，蓝色虚折线代表的Dijkstra-Load Balance算法的奖励数据的值相对于红色折线代表的RLQR-SV算法整体偏低，并且随着训练回合的增加，呈现下降趋势，而RLQR-SV算法的奖励值（QoE值）呈现上升趋势。在指标帧率 (Frame_rate) 和码率 (Code_rate) 方面，蓝色虚折线代表的Dijkstra-Load Balance算法总体变化不明显，而RLQR-SV算法随着训练回合的增加，其变化幅度大，并总体呈现上升趋势，在指标丢包率 (Packet_loss_rate) 和时延 (Time_delay) 方面，明显可以看出蓝色虚折线代表的Dijkstra-Load Balance算法总体都高于红色折线代表的RLQR-SV算法。综上结果，RLQR-SV算法各方面性能都优于Dijkstra-Load Balance算法，充分证明了RLQR-SV算法的有效性。
 - 奖励（QoE）与训练回合的变化关系：
-<img width="534" height="233" alt="image" src="https://github.com/user-attachments/assets/8d059854-4206-4081-80db-8b8190bb0da8" />
+- <img width="534" height="233" alt="image" src="https://github.com/user-attachments/assets/8d059854-4206-4081-80db-8b8190bb0da8" />
 - 帧率与训练回合的变化关系：
-<img width="514" height="232" alt="image" src="https://github.com/user-attachments/assets/024ed4d0-fd71-48aa-8b1a-d94b15bbfc0d" />
+- <img width="514" height="232" alt="image" src="https://github.com/user-attachments/assets/024ed4d0-fd71-48aa-8b1a-d94b15bbfc0d" />
 - 码率与训练回合的变化关系：
-<img width="500" height="228" alt="image" src="https://github.com/user-attachments/assets/825c3997-2e1b-48cb-a5b1-6457881eff89" />
+- <img width="500" height="228" alt="image" src="https://github.com/user-attachments/assets/825c3997-2e1b-48cb-a5b1-6457881eff89" />
 - 丢包率与训练回合的变化关系：
-<img width="515" height="226" alt="image" src="https://github.com/user-attachments/assets/2affe8d6-d90a-4ffb-a106-17ebcebd3875" />
+- <img width="515" height="226" alt="image" src="https://github.com/user-attachments/assets/2affe8d6-d90a-4ffb-a106-17ebcebd3875" />
 - 时延与训练回合的变化关系：
-<img width="499" height="226" alt="image" src="https://github.com/user-attachments/assets/5820d886-cd66-4e54-94d7-3d363c0f52d1" />
+- <img width="499" height="226" alt="image" src="https://github.com/user-attachments/assets/5820d886-cd66-4e54-94d7-3d363c0f52d1" />
